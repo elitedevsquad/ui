@@ -1,6 +1,6 @@
 {
     "name": "@elitedevsquad/ui",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "main": "./dist/elitedevsquad-ui.common.js",
     "author": "Marco Tulio de Avila Santos <marcotulio.avila@gmail.com> (https://github.com/marcoT89)",
     "license": "MIT",
